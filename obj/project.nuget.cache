@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "GyHXiQGA2YtMct0857Mfb/MEbBvrnrJUfoScdTL1zMiBT/ElvD/t2+SZp2Kea8A+6RAyb7sz+wH7wVetZSF2MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\G0Shark_\\Desktop\\WorksWithAPIs\\DiscordApp\\DiscordApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\discord.net\\3.12.0\\discord.net.3.12.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\discord.net.commands\\3.12.0\\discord.net.commands.3.12.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\discord.net.core\\3.12.0\\discord.net.core.3.12.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\discord.net.interactions\\3.12.0\\discord.net.interactions.3.12.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\discord.net.rest\\3.12.0\\discord.net.rest.3.12.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\discord.net.webhook\\3.12.0\\discord.net.webhook.3.12.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\discord.net.websocket\\3.12.0\\discord.net.websocket.3.12.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\google.apis\\1.63.0\\google.apis.1.63.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\google.apis.auth\\1.63.0\\google.apis.auth.1.63.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\google.apis.core\\1.63.0\\google.apis.core.1.63.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\google.apis.drive.v3\\1.63.0.3155\\google.apis.drive.v3.1.63.0.3155.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\google.apis.sheets.v4\\1.63.0.3148\\google.apis.sheets.v4.1.63.0.3148.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\G0Shark_\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
